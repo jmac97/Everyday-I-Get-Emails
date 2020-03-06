@@ -1,4 +1,4 @@
-# Everyday-I-Get-Emails
+# Everyday I Get Emails
 A virtual representation of my stress. 
 
 Everyday I get emails. Every week my professors keep assignming more projects. Why? Just to make me suffer? I have too much to do and I've had enough. 
