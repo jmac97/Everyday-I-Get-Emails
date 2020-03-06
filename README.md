@@ -17,7 +17,9 @@ This is a virtual representation of my stress. All the tasks that I need to swir
 * To adjust the webcam input, see the list of cameras printed in the Processing IDE. To select a camera, put its list number into "inputs[x]" for x in line 39.
 
 
-
+## More Pics
+![](https://github.com/jmac97/Everyday-I-Get-Emails/blob/master/screenshots/pic2.png?raw=true)
+![](https://github.com/jmac97/Everyday-I-Get-Emails/blob/master/screenshots/pic3.png?raw=true)
 
 
 ![meme1](https://github.com/jmac97/Everyday-I-Get-Emails/blob/master/screenshots/Capture.PNG?raw=true)
