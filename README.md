@@ -1,7 +1,9 @@
 # Everyday I Get Emails
 A virtual representation of my stress. 
 
-![stress example 1](https://github.com/jmac97/Everyday-I-Get-Emails/blob/master/screenshots/pic1.png?raw=true)
+<p align="center">
+  <img width="960" height="540" src="https://github.com/jmac97/Everyday-I-Get-Emails/blob/master/screenshots/pic1.png?raw=true">
+</p>
 
 Everyday I get emails. Every week my professors keep assignming more projects. Why? Just to make me suffer? I have too much to do and I've had enough. 
 
