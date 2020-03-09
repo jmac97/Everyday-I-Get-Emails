@@ -1,7 +1,9 @@
 # Everyday I Get Emails
 A virtual representation of my stress. 
 
-![stress example 1](https://github.com/jmac97/Everyday-I-Get-Emails/blob/master/screenshots/pic1.png?raw=true)
+<p align="center">
+  <img width="960" height="540" src="https://github.com/jmac97/Everyday-I-Get-Emails/blob/master/screenshots/pic1.png?raw=true">
+</p>
 
 Everyday I get emails. Every week my professors keep assignming more projects. Why? Just to make me suffer? I have too much to do and I've had enough. 
 
@@ -14,7 +16,8 @@ This is a virtual representation of my stress. All the tasks that I need to swir
 
 ## Notes
 * Although the threshold can be adjusted to your needs, the program runs best when the user sits in front of a white, well lit background. 
-* To adjust the webcam input, see the list of cameras printed in the Processing IDE. To select a camera, put its list number into "inputs[x]" for x in line 39.
+* To adjust the webcam input, see the list of cameras printed in the Processing IDE. To select a camera, put its list number into "inputs[x]" for x in line 39. See below:
+![](https://github.com/jmac97/Everyday-I-Get-Emails/blob/master/screenshots/camera%20input.png)
 
 
 ## More Pics
