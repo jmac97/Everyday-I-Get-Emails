@@ -14,7 +14,8 @@ This is a virtual representation of my stress. All the tasks that I need to swir
 
 ## Notes
 * Although the threshold can be adjusted to your needs, the program runs best when the user sits in front of a white, well lit background. 
-* To adjust the webcam input, see the list of cameras printed in the Processing IDE. To select a camera, put its list number into "inputs[x]" for x in line 39.
+* To adjust the webcam input, see the list of cameras printed in the Processing IDE. To select a camera, put its list number into "inputs[x]" for x in line 39. See below:
+![](https://github.com/jmac97/Everyday-I-Get-Emails/blob/master/screenshots/camera%20input.png)
 
 
 ## More Pics
